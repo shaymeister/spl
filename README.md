@@ -22,7 +22,7 @@ TODO
 
 ---
 
-### Citation
+### Reference and Citation
 
 If you our work useful in your research endeavors, we would appreciate if you would consider citing [our paper]()
 ```
